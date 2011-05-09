@@ -1,11 +1,11 @@
-﻿Build started 5/6/2011 3:59:31 PM.
-Project "C:\Documents and Settings\Administrator\Desktop\SampleBars\Register\Register.vcxproj" on node 2 (rebuild target(s)).
+﻿Build started 5/9/2011 4:00:03 PM.
+Project "C:\Documents and Settings\Administrator\Desktop\L0005\SampleBars\Register\Register.vcxproj" on node 2 (rebuild target(s)).
 _PrepareForClean:
   Deleting file "Debug\Register.lastbuildstate".
 InitializeBuildStatus:
   Creating "Debug\Register.unsuccessfulbuild" because "AlwaysCreate" was specified.
 PostBuildEvent:
-  cd C:\Documents and Settings\Administrator\Desktop\SampleBars\Register\..\bin\Debug
+  cd C:\Documents and Settings\Administrator\Desktop\L0005\SampleBars\Register\..\bin\Debug
   
   gacutil /if SampleBars.dll
   regasm SampleBars.dll
@@ -24,8 +24,8 @@ PostBuildEvent:
 FinalizeBuildStatus:
   Deleting file "Debug\Register.unsuccessfulbuild".
   Touching "Debug\Register.lastbuildstate".
-Done Building Project "C:\Documents and Settings\Administrator\Desktop\SampleBars\Register\Register.vcxproj" (rebuild target(s)).
+Done Building Project "C:\Documents and Settings\Administrator\Desktop\L0005\SampleBars\Register\Register.vcxproj" (rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:09.51
+Time Elapsed 00:00:01.09

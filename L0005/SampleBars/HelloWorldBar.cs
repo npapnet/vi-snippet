@@ -1,7 +1,6 @@
 using System;
 using System.ComponentModel;
 using System.Windows.Forms;
-
 using BandObjectLib;
 using System.Runtime.InteropServices;
 
@@ -11,7 +10,9 @@ namespace SampleBars
 	[BandObject("Hello World Bar", BandObjectStyle.Horizontal | BandObjectStyle.ExplorerToolbar | BandObjectStyle.TaskbarToolBar, HelpText = "Shows bar that says hello.")]
 	public class HelloWorldBar : BandObject
 	{
-        private System.Windows.Forms.Button button1;
+        
+        
+        public System.Windows.Forms.Button button1;
         private ProgressBar progressBar1;
         private Timer timer1;
         private IContainer components;
@@ -80,10 +81,10 @@ namespace SampleBars
 		}
 		#endregion
 
-		private void button1_Click(object sender, System.EventArgs e)
+		public void button1_Click(object sender, System.EventArgs e)
 		{
 			//MessageBox.Show("ZZZZZZ Hello, World!");
-            if (timer1.Tag != "Stoped")
+            if ( timer1.Tag != "Stoped")
             {
                 timer1.Stop();
                 timer1.Tag = "Stoped";
@@ -109,4 +110,6 @@ namespace SampleBars
             }
         }
 	}
+
+    
 }
