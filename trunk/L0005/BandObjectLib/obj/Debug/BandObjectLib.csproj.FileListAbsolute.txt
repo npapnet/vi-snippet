@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\obj\Debug\BandObjectLib.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\obj\Debug\BandObjectLib.BandObject.resources
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\bin\Debug\BandObjectLib.dll
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\bin\Debug\BandObjectLib.pdb
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\obj\Debug\BandObjectLib.dll
+C:\Documents and Settings\Administrator\Desktop\BandObjectLib\obj\Debug\BandObjectLib.pdb
