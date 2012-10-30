@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages For This Actor" Type="Folder"/>
+	<Item Name="Messages For This Actor" Type="Folder">
+		<Item Name="Power Off Msg.lvclass" Type="LVClass" URL="../Dual Fan Messages/Power Off Msg/Power Off Msg.lvclass"/>
+		<Item Name="Power On Msg.lvclass" Type="LVClass" URL="../Dual Fan Messages/Power On Msg/Power On Msg.lvclass"/>
+	</Item>
 	<Item Name="Dual Fan.lvclass" Type="LVClass" URL="../Dual Fan/Dual Fan.lvclass"/>
 </Library>
