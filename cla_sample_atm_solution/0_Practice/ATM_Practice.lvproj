@@ -20,6 +20,7 @@
 		<Item Name="SubVI" Type="Folder" URL="../SubVI">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="SD_Function.ctl" Type="VI" URL="../DataType/SD_Function.ctl"/>
 		<Item Name="Simulation Interface.vi" Type="VI" URL="../Simulation Interface.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
