@@ -40,6 +40,7 @@
 		</Item>
 		<Item Name="Keypad.xctl" Type="XControl" URL="../Keypad/Keypad.xctl"/>
 		<Item Name="Simulation Interface.vi" Type="VI" URL="../Simulation Interface.vi"/>
+		<Item Name="MainFrameWork.vi" Type="VI" URL="../MainFrameWork.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
